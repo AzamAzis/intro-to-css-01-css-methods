@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Methods for Adding CSS</title>
+    <link href="style.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com" rel="preconnect">
+    <link crossorigin href="https://fonts.gstatic.com" rel="preconnect">
+    <link
+      href="https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+      rel="stylesheet"
+    >
+    <style>
+      p {
+        background: green;
+        padding: 5px;
+        margin: 0 10px 10px 10px;
+        color: white;
+        font-size: 12px;
+      }
+    </style>
+  </head>
+  <body>
+    <div>Style me via the external method!</div>
+    <p>I would like to be styled with the internal method, please.</p>
+    <button
+      style="
+        background: orange;
+        padding: 5px;
+        margin: 0 10px 0 10px;
+        border: 2px solid;
+        border-image: linear-gradient(150deg, gray 60%, black 40%) 1;
+      "
+    >
+      Inline Method
+    </button>
+  </body>
+</html>
