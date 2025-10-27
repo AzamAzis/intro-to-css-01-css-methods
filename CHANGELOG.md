@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.1.1](https://github.com/AzamAzis/intro-to-css-01-css-methods/compare/v1.1.0...v1.1.1) (2025-10-27)
+
+
+### Bug Fixes
+
+* remove zoneIdentifier ([d3c5b13](https://github.com/AzamAzis/intro-to-css-01-css-methods/commit/d3c5b13ae5dc0a3bc2648e768b2acfdee4a54bb6))
+
 ## 1.1.0 (2025-10-27)
 
 
